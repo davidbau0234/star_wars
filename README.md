@@ -6,3 +6,4 @@ Trabajo presentado por:
 * Manuel Eduardo Castro Santana
 * Gian Carlo Gaviria Arias
 * Julio Cesar Ortega Tabares
+* Jose Nicolas Felipe Pachon Roncancio
